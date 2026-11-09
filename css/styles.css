@@ -147,3 +147,6 @@ h2::after{content:"";display:block;width:54px;height:3px;background:var(--accent
 .section.dark h2::after{margin-inline:auto}
 .section.dark .section-intro{margin-inline:auto;text-align:center}
 .facts dd{font-family:Georgia,serif}
+
+/* draft-preview notice */
+.draft-bar{background:#fff1c9;color:#5a4300;text-align:center;font-size:.88rem;padding:.6rem 1rem;border-bottom:1px solid #ecd58a;line-height:1.4}
